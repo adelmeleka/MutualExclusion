@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544470177 source:/home/adel/Documents/OSProjects/MutualExclusion_TrainAutomation/main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+
